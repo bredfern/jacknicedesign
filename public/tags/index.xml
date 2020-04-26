@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Jack Nice Design</title>
-    <link>https://jacknice.com/tags/</link>
-    <description>Recent content in Tags on Jack Nice Design</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://jacknice.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Design 418</title><link>https://design418.com/tags/</link><description>Recent content in Tags on Design 418</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://design418.com/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://jacknice.com/"
+baseurl = "https://design418.com/"
 languageCode = "en-us"
-title = "Jack Nice Design"
+title = "Design 418"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
@@ -17,8 +17,8 @@ googleAnalytics = "UA-84715143-1"
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Jack Nice"
-  description = "This is my design studio"
+  name = "The Design 418 Team"
+  description = "This is our design studio"
   email = "jacknicedesign@outlook.com"
 
   # Link custom assets relative to /static
@@ -46,7 +46,7 @@ googleAnalytics = "UA-84715143-1"
 
   # Navigation
   [params.navigation]
-    brand = "Jack Nice Design"
+    brand = "Design 418"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "Services"
@@ -76,8 +76,8 @@ googleAnalytics = "UA-84715143-1"
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Welcome To My Studio!"
-    subtitle = "It's nice to meet you"
+    title = "Welcome to the Design 418 Studio!"
+    subtitle = "Manifest Your Vision"
     buttonText = "Tell me more"
 
 
@@ -85,47 +85,29 @@ googleAnalytics = "UA-84715143-1"
   [params.services]
     enable = true
     title = "Services"
-    subtitle = "I offer a number of services focused on your online business needs."
+    subtitle = "We offer a single comprehensive package for just $80 a month for website hosting, updates, social media management and search engine optimization. Site redesigns are $200 for sites that are 20 pages or smaller."
 
     [[params.services.row]]
 
     [[params.services.row.list]]
-      icon = "fa-facebook"
+      icon = "fa-twitter"
       title = "Social Media"
-      description = "To reach customers today you need a strategy for social media."
+      description = "We help you develop a strategy for social media and help you manage posting content to the popular social media services."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-google"
       title = "SEO"
-      description = "For your site to be effective you need to work well with google and bing."
+      description = "We use SEO tools to make your site search friendly and seek out blogs and other social influencers to organically promote your site for higher rankings."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-lock"
       title = "Web Design"
-      description = "We use adaptive techniques to enable the same design to work well on all devices."
+      description = "You need a modern website that that serves as your hub for information about your brand and links to your newsletter signup and social media accounts."
       url = "#"
 
-     [[param.services.row]]
-     
-     [[params.services.row.list]]
-      icon = "fa-laptop"
-      title = "Web Applications"
-      description = "We use modern tools such as react and vue, and work with services in rest and graphql."
-      url = "#"
-
-     [[params.services.row.list]]
-      icon = "fa-android"
-      title = "Android Applications"
-      description = "We can also build native apps for android using java, c++ and kotlin."
-      url = "#"
-
-     [[params.services.row.list]]
-      icon = "fa-anchor"
-      title = "Dev Ops"
-      description = "We can deploy your apps into the cloud on aws and azure using the latest tools from docker and kubernetes."
-      url = "#"
+    
 
   # Portfolio section
   [params.portfolio]
@@ -322,17 +304,17 @@ She worked at Pied Piper for years until they went belly up."""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Copyright 2020 Jack Nice Design"
+    copyright = "Copyright 2020 Design 418"
 
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      link = "https://twitter.com/jacknicedesign"
-      title = "Twitter"
+    #[[params.footer.social]]
+    #  icon = "fa-twitter"
+    #  link = "https://twitter.com/jacknicedesign"
+    #  title = "Twitter"
 
-    [[params.footer.social]]
-      icon = "fa-instagram"
-      link = "https://www.instagram.com/realjacknice/"
-      title = "Instagram"
+    #[[params.footer.social]]
+    #  icon = "fa-instagram"
+    #  link = "https://www.instagram.com/realjacknice/"
+    #  title = "Instagram"
 
     #[[params.footer.quicklinks]]
     #  text = "Privacy Policy"
