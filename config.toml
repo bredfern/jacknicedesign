@@ -19,7 +19,7 @@ googleAnalytics = "UA-164594432-1"
   # information about you and your website.
   name = "The Design 418 Team"
   description = "This is our design studio"
-  email = "jacknicedesign@outlook.com"
+  email = "brian@design418.com"
 
   # Link custom assets relative to /static
   custom_css = []
